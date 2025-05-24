@@ -1,8 +1,6 @@
 # 📘 Introduction to Computer Science – Final Project
 
 **Author**: Nimrod Netzer  
-**ID**: 322394545  
-**Assignment**: `ex_10`
 
 This project was developed as part of an introductory computer science course. It is a comprehensive, menu-driven C application that showcases fundamental programming concepts including:
 
